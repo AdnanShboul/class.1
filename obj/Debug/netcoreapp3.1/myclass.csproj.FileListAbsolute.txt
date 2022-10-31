@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\class\myclass\bin\Debug\netcoreapp3.1\myclass.exe
+C:\Users\user\Desktop\class\myclass\bin\Debug\netcoreapp3.1\myclass.deps.json
+C:\Users\user\Desktop\class\myclass\bin\Debug\netcoreapp3.1\myclass.runtimeconfig.json
+C:\Users\user\Desktop\class\myclass\bin\Debug\netcoreapp3.1\myclass.runtimeconfig.dev.json
+C:\Users\user\Desktop\class\myclass\bin\Debug\netcoreapp3.1\myclass.dll
+C:\Users\user\Desktop\class\myclass\bin\Debug\netcoreapp3.1\myclass.pdb
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.AssemblyInfo.cs
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.dll
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.pdb
+C:\Users\user\Desktop\class\myclass\obj\Debug\netcoreapp3.1\myclass.genruntimeconfig.cache
